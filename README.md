@@ -4,6 +4,7 @@
 The hospital is committed to improving patient experience, reducing wait times, and enhancing operational efficiency. A data analysis of the appointment scheduling system has provided key insights into the performance and challenges faced by various provider roles (MDs, Nurses, and Psychologists). The study spans the period between September 21 and October 31, 2023, and focuses on patient volume, wait times, and provider-specific metrics.
 
 #### **Key Insights**
+![Screenshot_20240930-170830](https://github.com/user-attachments/assets/48305728-f31c-40ee-b613-c609b4b72288)
 
 1. **Patient Volume by Provider Role**:
    - **MDs (Medical Doctors)** handle the largest patient load with **57%** of the appointments, equating to **98 patients**.
