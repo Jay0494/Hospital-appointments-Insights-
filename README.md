@@ -56,6 +56,3 @@ The hospital is committed to improving patient experience, reducing wait times, 
 
 4. **Ongoing Performance Monitoring**:
    - Implement quarterly reviews of the appointment system's performance to assess the impact of changes on patient wait times and overall efficiency. Use patient feedback to continually refine the process.
-
-By addressing these areas, the hospital can enhance its service delivery, reduce patient wait times, and provide a more efficient, patient-friendly appointment scheduling experience.
-
